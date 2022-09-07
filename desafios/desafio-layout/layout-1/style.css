@@ -4,37 +4,39 @@ html, body {
     height: 100%;
 }
 
-.conteiner {
+html, body, .conteiner {
     height: 100%;
+}
+
+.conteiner, main {
     display: flex;
 }
 
 aside {
     width: 90px;
-    padding: 16px;
     background: #ebc468;
 }
 
 main {
     flex: 1;
 
-    display: flex;
     flex-direction: column;
 }
 
 header {
-    padding: 16px;
     background: #e63131;
 }
 
 .content {
-    padding: 16px;
     background: #4ebbff;
 
     flex: 1;
 }
 
 footer {
-    padding: 16px;
     background: #4eff83;
+}
+
+aside, header, .content, footer {
+    padding: 16px;
 }

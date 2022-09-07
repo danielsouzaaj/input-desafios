@@ -1,0 +1,55 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body,
+.conteiner {
+    height: 100%;
+}
+
+.conteiner {
+    display: flex;
+    flex-direction: column;
+}
+
+.main-conteiner,
+main,
+.content {
+    flex: 1;
+}
+
+.main-conteiner {
+    display: flex;
+}
+
+aside {
+    width: 90px;
+    background: #f0fe5e;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    background: #fe5e5e;
+}
+
+.content {
+    background: #5ea6fe;
+}
+
+footer {
+    background: #5efe7e;
+}
+
+aside,
+header,
+.content,
+footer {
+    padding: 1rem;
+}

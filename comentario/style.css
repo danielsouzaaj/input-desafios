@@ -27,3 +27,8 @@ body {
     grid-column: 1 / 2;
     grid-row: 1 / 3;
 }
+
+.comentario__nome {
+    font-size: 1.5rem;
+    font-weight: 700;
+}

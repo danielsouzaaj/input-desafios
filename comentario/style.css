@@ -42,6 +42,7 @@ body {
 }
 
 .comentario__conteudo {
+    margin-top: 2px;
     font-size: 1.5rem;
     font-weight: 400;
 }

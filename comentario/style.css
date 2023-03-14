@@ -18,6 +18,7 @@ body {
 
 .comentario {
     background-color: #FAFAFA;
+    padding: 24px 56px;
     display: grid;
     grid-template-columns: auto 1fr;
     grid-template-rows: 1fr auto;

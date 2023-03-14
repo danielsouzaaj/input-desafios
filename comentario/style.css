@@ -31,6 +31,7 @@ body {
 }
 
 .comentario__nome {
+    align-self: end;
     font-size: 1.5rem;
     font-weight: 700;
 }

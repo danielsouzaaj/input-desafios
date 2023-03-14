@@ -20,10 +20,16 @@ main {
     max-width: 208px;
     padding: 32px 24px;
     border-radius: 32px;
+    transition: all 0.5s ease;
 }
 
 .icon-conteiner {
     margin-bottom: 12px;
+}
+
+.icon-conteiner .icon {
+    stroke: #18161F;
+    transition: stroke 0.5s ease;
 }
 
 p {
@@ -31,10 +37,27 @@ p {
     font-size: 1.25rem;
     font-weight: 500;
     margin-bottom: 16px;
+    transition: color 0.5s ease;
 }
 
 h1 {
     color: #18161F;
     font-size: 2rem;
     font-weight: 700;
+    transition: color 0.5s ease;
+}
+
+main:hover {
+    background-color: #18161F;
+}
+main:hover .icon-conteiner .icon {
+    stroke: #fafafa;
+}
+
+main:hover p {
+    color: #D6D4E2;
+}
+
+main:hover h1 {
+    color: #fafafa;
 }

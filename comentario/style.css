@@ -36,3 +36,8 @@ body {
 .comentario__status {
     color: #787490;
 }
+
+.comentario__conteudo {
+    font-size: 1.5rem;
+    font-weight: 400;
+}

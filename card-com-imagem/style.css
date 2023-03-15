@@ -32,3 +32,8 @@ body {
     font-size: 32px;
     font-weight: 700;
 }
+
+.card__conteudo__perfil {
+    display: flex;
+    align-items: center;
+}

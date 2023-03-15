@@ -12,3 +12,8 @@ body {
     justify-content: center;
     overflow: hidden;
 }
+
+.card {
+    display: flex;
+    flex-direction: column;
+}

@@ -31,12 +31,14 @@ body {
 .card__conteudo__titulo {
     font-size: 32px;
     font-weight: 700;
+    margin-bottom: 16px;
 }
 
 .card__conteudo__perfil {
     display: flex;
     align-items: center;
     column-gap: 16px;
+    margin-bottom: 24px;
 }
 
 .card__conteudo__perfil__nome {

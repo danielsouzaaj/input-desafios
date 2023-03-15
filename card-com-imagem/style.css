@@ -25,3 +25,8 @@ body {
     background-color: #FAFAFA;
     border-radius: 0 0 32px 32px;
 }
+
+.card__conteudo__titulo {
+    font-size: 32px;
+    font-weight: 700;
+}

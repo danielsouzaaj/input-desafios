@@ -58,4 +58,5 @@ body {
 .card__conteudo__info__views {
     display: flex;
     align-items: center;
+    color: #787490;
 }

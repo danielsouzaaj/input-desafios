@@ -53,3 +53,9 @@ body {
     align-items: center;
     justify-content: space-between;
 }
+
+.card__conteudo__info__comentarios,
+.card__conteudo__info__views {
+    display: flex;
+    align-items: center;
+}

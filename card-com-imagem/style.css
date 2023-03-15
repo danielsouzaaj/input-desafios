@@ -17,3 +17,7 @@ body {
     display: flex;
     flex-direction: column;
 }
+
+.card__conteudo {
+    background-color: #FAFAFA;
+}

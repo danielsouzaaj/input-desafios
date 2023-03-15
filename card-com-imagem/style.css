@@ -20,4 +20,5 @@ body {
 
 .card__conteudo {
     background-color: #FAFAFA;
+    border-radius: 0 0 32px 32px;
 }

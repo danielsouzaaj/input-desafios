@@ -22,6 +22,7 @@ body {
 }
 
 .card__conteudo {
+    max-width: 320px;
     background-color: #FAFAFA;
     border-radius: 0 0 32px 32px;
 }

@@ -29,6 +29,7 @@ body {
 }
 
 .card__conteudo__titulo {
+    color: #18161F;
     font-size: 32px;
     font-weight: 700;
     margin-bottom: 16px;

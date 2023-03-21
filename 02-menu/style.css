@@ -14,6 +14,10 @@ body {
     font-family: 'Space Grotesk', sans-serif;
 }
 
+aside {
+    border-right: 1px solid #D6D4E2;
+}
+
 .logo {
     padding: 24px 0;
     text-align: center;

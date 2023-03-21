@@ -48,3 +48,8 @@ nav {
     align-items: center;
     column-gap: 28px;
 }
+
+.menu__item__link {
+    font-size: 16px;
+    font-weight: 500;
+}

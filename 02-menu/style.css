@@ -21,6 +21,7 @@ body {
 
 .user {
     padding: 16px 24px;
+    border-top: 1px solid #D6D4E2;;
     display: flex;
     align-items: center;
     justify-content: space-between;

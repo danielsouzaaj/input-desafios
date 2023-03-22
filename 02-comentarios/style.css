@@ -47,3 +47,12 @@ body {
     display: flex;
     flex-direction: column;
 }
+
+.last-border {
+    border-radius: 32px 32px 0 0;
+}
+
+.comment__stats {
+    background-color: #f5f4f6;
+    border-radius: 0 0 32px 32px;
+}

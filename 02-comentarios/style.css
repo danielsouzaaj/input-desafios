@@ -57,6 +57,7 @@ body {
     padding: 24px 56px;
     display: flex;
     align-items: center;
+    column-gap: 36px;
     border-radius: 0 0 32px 32px;
 }
 

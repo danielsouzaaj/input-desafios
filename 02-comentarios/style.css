@@ -42,3 +42,8 @@ body {
     font-weight: 400;
     color: #18161f;
 }
+
+.last-comment {
+    display: flex;
+    flex-direction: column;
+}

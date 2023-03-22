@@ -17,6 +17,7 @@ body {
     background-color: #fafafa;
     max-width: 720px;
     padding: 24px 56px;
+    border-radius: 32px;
     display: flex;
     align-items: flex-start;
     column-gap: 40px;

@@ -19,4 +19,5 @@ body {
     padding: 24px 56px;
     display: flex;
     align-items: flex-start;
+    column-gap: 40px;
 }

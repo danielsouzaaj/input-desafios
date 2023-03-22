@@ -27,6 +27,7 @@ body {
 }
 
 .comment__info__name {
+    margin-bottom: 8px;
     font-size: 24px;
     font-weight: 700;
     color: #18161f;
@@ -39,4 +40,5 @@ body {
 .comment__info__content {
     font-size: 24px;
     font-weight: 400;
+    color: #18161f;
 }

@@ -63,3 +63,7 @@ body {
     font-size: 24px;
     font-weight: 400;
 }
+
+.comment__stats__like__numb {
+    font-weight: 700;
+}

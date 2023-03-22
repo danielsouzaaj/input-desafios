@@ -29,6 +29,7 @@ body {
 .comment__info__name {
     font-size: 24px;
     font-weight: 700;
+    color: #18161f;
 }
 
 .comment__info__status {

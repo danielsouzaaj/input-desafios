@@ -25,3 +25,8 @@ body {
     align-items: flex-start;
     column-gap: 40px;
 }
+
+.comment__info__name {
+    font-size: 24px;
+    font-weight: 700;
+}

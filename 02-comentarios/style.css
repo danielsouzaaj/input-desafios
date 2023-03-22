@@ -17,6 +17,12 @@ body {
     color: #18161f;
 }
 
+main {
+    display: flex;
+    flex-direction: column;
+    row-gap: 24px;
+}
+
 .comment {
     background-color: #fafafa;
     max-width: 720px;

@@ -35,3 +35,8 @@ body {
 .comment__info__status {
     color: #787490;
 }
+
+.comment__info__content {
+    font-size: 24px;
+    font-weight: 400;
+}

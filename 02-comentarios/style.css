@@ -54,5 +54,6 @@ body {
 
 .comment__stats {
     background-color: #f5f4f6;
+    padding: 24px 56px;
     border-radius: 0 0 32px 32px;
 }

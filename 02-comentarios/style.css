@@ -14,6 +14,7 @@ body {
     justify-content: center;
     overflow: hidden;
     font-family: 'Space Grotesk', sans-serif;
+    color: #18161f;
 }
 
 .comment {
@@ -30,7 +31,6 @@ body {
     margin-bottom: 8px;
     font-size: 24px;
     font-weight: 700;
-    color: #18161f;
 }
 
 .comment__info__status {
@@ -40,7 +40,6 @@ body {
 .comment__info__content {
     font-size: 24px;
     font-weight: 400;
-    color: #18161f;
 }
 
 .last-comment {
@@ -58,4 +57,9 @@ body {
     display: flex;
     align-items: center;
     border-radius: 0 0 32px 32px;
+}
+
+.comment__stats__like {
+    font-size: 24px;
+    font-weight: 400;
 }

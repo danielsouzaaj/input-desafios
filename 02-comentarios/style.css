@@ -5,9 +5,18 @@
 }
 
 body {
+    background-color: #d6d4e2;
     height: 100vh;
     display: flex;
     align-items: center;
     justify-content: center;
     overflow: hidden;
+}
+
+.comment {
+    background-color: #fafafa;
+    max-width: 720px;
+    padding: 24px 56px;
+    display: flex;
+    align-items: flex-start;
 }

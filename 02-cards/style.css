@@ -32,3 +32,9 @@ main {
     align-items: center;
     column-gap: 32px;
 }
+
+.card__content {
+    background-color: #FAFAFA;
+    max-width: 320px;
+    padding: 24px;
+}

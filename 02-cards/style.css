@@ -50,3 +50,8 @@ main {
     align-items: center;
     column-gap: 16px;
 }
+
+.card__content__profile__name {
+    font-size: 16px;
+    color: #18161F;
+}

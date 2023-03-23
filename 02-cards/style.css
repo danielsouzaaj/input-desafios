@@ -47,6 +47,7 @@ main {
 }
 
 .card__content__profile {
+    margin-bottom: 24px;
     display: flex;
     align-items: center;
     column-gap: 16px;

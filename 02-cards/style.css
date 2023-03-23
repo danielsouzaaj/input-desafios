@@ -75,3 +75,9 @@ main {
 .card__content__stats__views {
     column-gap: 8px;
 }
+
+.card__content__stats__commet__numb,
+.card__content__stats__view__numb {
+    font-size: 16px;
+    color: #787491;
+}

@@ -33,6 +33,11 @@ main {
     column-gap: 32px;
 }
 
+.card {
+    border: 2px solid #D6D4E2;
+    border-radius: 32px;
+}
+
 .card__image {
     vertical-align: bottom;
 }

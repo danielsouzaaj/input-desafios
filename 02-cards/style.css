@@ -12,3 +12,9 @@ body {
     padding: 72px;
     font-family: 'Space Grotesk', sans-serif;
 }
+
+.overtitle {
+    font-size: 24px;
+    font-weight: 400;
+    color: #787491;
+}

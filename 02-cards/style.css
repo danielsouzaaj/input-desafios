@@ -77,7 +77,8 @@ main {
 }
 
 .card__content__stats__commet__numb,
-.card__content__stats__view__numb {
+.card__content__stats__views__numb {
     font-size: 16px;
+    font-weight: 500;
     color: #787491;
 }

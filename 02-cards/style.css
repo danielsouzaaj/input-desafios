@@ -59,3 +59,19 @@ main {
 .card__content__profile__status {
     color: #787490;
 }
+
+.card__content__stats,
+.card__content__stats__commet,
+.card__content__stats__views {
+    display: flex;
+    align-items: center;
+}
+
+.card__content__stats {
+    justify-content: space-between;
+}
+
+.card__content__stats__commet,
+.card__content__stats__views {
+    column-gap: 8px;
+}

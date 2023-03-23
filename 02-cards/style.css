@@ -30,7 +30,8 @@ main {
     margin-top: 48px;
     display: flex;
     align-items: center;
-    column-gap: 32px;
+    flex-wrap: wrap;
+    gap: 32px;
 }
 
 .card {
@@ -94,4 +95,16 @@ main {
     font-size: 16px;
     font-weight: 500;
     color: #787491;
+}
+
+@media (max-width: 840px) {
+    body {
+        padding: 32px;
+    }
+}
+
+@media (max-width: 400px) {
+    body {
+        padding: 20px;
+    }
 }

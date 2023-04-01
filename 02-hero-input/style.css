@@ -12,3 +12,10 @@ body {
     padding: 0 72px;
     font-family: 'Space Grotesk', sans-serif;
 }
+
+.header {
+    padding: 24px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

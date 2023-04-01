@@ -52,3 +52,7 @@ body {
     justify-content: space-between;
     align-items: center;
 }
+
+.hero__text {
+    max-width: 680px;
+}

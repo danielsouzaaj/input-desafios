@@ -9,11 +9,17 @@
 
 body {
     background-color: #18161f;
-    max-width: 1280px;
     height: 100vh;
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+main {
+    background: url(./assets/effect-blur.png) no-repeat;
+    background-size: cover;
+    max-width: 1280px;
+    height: 100%;
     padding: 0 72px;
     margin: 0 auto;
-    font-family: 'Space Grotesk', sans-serif;
 }
 
 .header {
@@ -93,4 +99,8 @@ body {
     font-weight: 700;
     font-size: 1.25rem;
     color: #18161f;
+}
+
+.hero img {
+    margin-right: -25px;
 }

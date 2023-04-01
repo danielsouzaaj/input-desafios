@@ -82,3 +82,13 @@ body {
     color: #d6d4e2;
     margin-bottom: 56px;
 }
+
+.hero__btn {
+    display: inline-block;
+    background-color: #00d9c0;
+    padding: 24px 48px;
+    border-radius: 90px;
+    font-weight: 700;
+    font-size: 1.25rem;
+    color: #18161f;
+}

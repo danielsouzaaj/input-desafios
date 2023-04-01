@@ -56,3 +56,13 @@ body {
 .hero__text {
     max-width: 680px;
 }
+
+.hero__text__overtitle {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    font-weight: 400;
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    color: #d6d4e2;
+}

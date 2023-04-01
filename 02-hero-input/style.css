@@ -9,8 +9,10 @@
 
 body {
     background-color: #18161f;
+    max-width: 1280px;
     height: 100vh;
     padding: 0 72px;
+    margin: 0 auto;
     font-family: 'Space Grotesk', sans-serif;
 }
 

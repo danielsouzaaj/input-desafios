@@ -74,3 +74,10 @@ body {
     color: #fafafa;
     margin-bottom: 32px;
 }
+
+.hero__text__subtitle {
+    font-weight: 400;
+    font-size: 1.25rem;
+    color: #d6d4e2;
+    margin-bottom: 56px;
+}

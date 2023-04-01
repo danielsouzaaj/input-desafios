@@ -45,3 +45,10 @@ body {
     border-radius: 90px;
     font-weight: 700;
 }
+
+.hero {
+    padding: 72px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

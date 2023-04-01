@@ -66,3 +66,11 @@ body {
     text-transform: uppercase;
     color: #d6d4e2;
 }
+
+.hero__text__title {
+    max-width: 602px;
+    font-weight: 700;
+    font-size: 3.25rem;
+    color: #fafafa;
+    margin-bottom: 32px;
+}
